@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
