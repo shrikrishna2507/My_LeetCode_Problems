@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
