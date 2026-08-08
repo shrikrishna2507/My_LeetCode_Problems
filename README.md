@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0401-binary-watch) |
+| [1009-complement-of-base-10-integer](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
 |  |
 | ------- |
