@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
