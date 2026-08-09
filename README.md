@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
