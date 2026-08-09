@@ -154,4 +154,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
