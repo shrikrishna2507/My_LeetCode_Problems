@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 ## Backtracking
 |  |
@@ -150,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
