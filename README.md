@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
