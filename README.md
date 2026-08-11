@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0027-remove-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
