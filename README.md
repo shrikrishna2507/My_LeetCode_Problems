@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0788-rotated-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0788-rotated-digits](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
