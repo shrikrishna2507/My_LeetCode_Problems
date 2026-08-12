@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0788-rotated-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Floyd's Cycle Finding Algorithm
 |  |
