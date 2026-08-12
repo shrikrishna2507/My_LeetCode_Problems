@@ -1,6 +1,13 @@
 class Solution(object):
     def mySqrt(self, x):
-        i = 0
-        while i * i <= x:
-            i += 1
-        return i - 1
+        left, right = 0, x
+        
+        while left <= right:
+            mid = (left + right) // 2
+            
+            if mid * mid <= x:
+                left = mid + 1
+            else:
+                right = mid - 1
+                
+        return right
