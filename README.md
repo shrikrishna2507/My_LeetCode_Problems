@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Bracket Sequences
 |  |
 | ------- |
