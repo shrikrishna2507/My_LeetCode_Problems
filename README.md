@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2574-left-and-right-sum-differences](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3731-find-missing-elements](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3731-find-missing-elements) |
