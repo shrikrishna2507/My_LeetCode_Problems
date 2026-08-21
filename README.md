@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3838-weighted-word-mapping](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
