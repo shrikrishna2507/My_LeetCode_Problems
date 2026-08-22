@@ -1,16 +1,16 @@
 class Solution(object):
     def checkDivisibility(self, n):
-        # Convert n to a string to access individual characters/digits
         n_str = str(n)
         
-        
-        s = sum(int(digit) for digit in n_str)
-        
+        s = 0
         p = 1
+        
         for digit in n_str:
-            p *= int(digit)
+            d = int(digit)
+            s += d
+            p *= d
             
-        if (n % (s + p) == 0):
+        if n % (s + p) == 0:
             return True
         else:
             return False
