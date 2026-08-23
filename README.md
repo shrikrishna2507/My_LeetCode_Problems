@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
