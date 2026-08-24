@@ -287,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
