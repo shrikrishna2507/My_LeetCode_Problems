@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0455-assign-cookies) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
