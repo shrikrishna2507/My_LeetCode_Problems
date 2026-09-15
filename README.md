@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shrikrishna2507/My_LeetCode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Quicksort
